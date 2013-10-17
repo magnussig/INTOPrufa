@@ -62,7 +62,7 @@ void spila( )
 {
 	int hruga[ 10 ];
 	cout << "*-------------------------------------------------------*" << endl;
-	cout << "                   NU SPILUM VID(Magnus og thu) NIM!!" << endl;
+	cout << "                   NU SPILUM VID(Magnus og thu)(og ekki gleyma Arna) NIM!!" << endl;
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << endl << endl;
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
